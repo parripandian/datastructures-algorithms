@@ -1,0 +1,27 @@
+{
+  "name": "datastructures-algorithms",
+  "version": "0.0.1",
+  "description": "Data Structures and Algorithms in NodeJS & JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parripandian/datastructures-algorithms.git"
+  },
+  "keywords": [
+    "data-structures",
+    "algorithms"
+  ],
+  "author": "Parri Pandian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parripandian/datastructures-algorithms/issues"
+  },
+  "homepage": "https://github.com/parripandian/datastructures-algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
